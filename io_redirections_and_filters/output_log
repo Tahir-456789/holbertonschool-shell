@@ -1,0 +1,5 @@
+[main 0f5c173] commit
+ 3 files changed, 7 insertions(+)
+ create mode 100755 io_redirections_and_filters/d
+ create mode 100644 io_redirections_and_filters/output_log
+ create mode 100755 io_redirections_and_filters/wd
