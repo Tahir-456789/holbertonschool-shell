@@ -1,2 +1,6 @@
 #!/bin/bash
 chmod +x [head=0-9]*
+git add .
+git commit -m "commit" -s
+git push -q
+echo "GIT PUSH SUCCESS"
