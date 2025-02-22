@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod +x [head=0-9]*
