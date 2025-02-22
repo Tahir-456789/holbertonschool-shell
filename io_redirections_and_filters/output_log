@@ -24,3 +24,6 @@
 [main dcfdb98] commit
  2 files changed, 5 insertions(+)
  create mode 100755 io_redirections_and_filters/6-third_line
+[main 1c5724d] commit
+ 2 files changed, 5 insertions(+)
+ create mode 100755 io_redirections_and_filters/7-file
