@@ -1,4 +1,5 @@
 !#/bin/bash
-git add .
-git commit -m "commit"
-git push
+git add . > output
+git commit -m "commit" > output
+git push > output
+echo "GIT PUSH SUCCESS"
