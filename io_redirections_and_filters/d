@@ -1,2 +1,0 @@
-#!/bin/bash
-chmod u+x [head=0-9]*
