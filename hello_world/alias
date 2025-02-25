@@ -1,0 +1,2 @@
+#!/bin/bash
+alias pp="chmod +x [head=0-9]*; git add .; git commit -m "commit"; git push"
